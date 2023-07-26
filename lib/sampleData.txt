@@ -1,0 +1,66 @@
+{
+"results": [
+{
+"gender": "female",
+"name": {
+"title": "Miss",
+"first": "Luisa",
+"last": "Olmos"
+},
+"location": {
+"street": {
+"number": 3324,
+"name": "Callejón Sur Rivero"
+},
+"city": "Los Tepames",
+"state": "Guerrero",
+"country": "Mexico",
+"postcode": 54786,
+"coordinates": {
+"latitude": "26.6298",
+"longitude": "73.8832"
+},
+"timezone": {
+"offset": "-6:00",
+"description": "Central Time (US & Canada), Mexico City"
+}
+},
+"email": "luisa.olmos@example.com",
+"login": {
+"uuid": "9a235376-743b-4b3d-bac8-c6b71cddeef2",
+"username": "orangepeacock439",
+"password": "ruan",
+"salt": "spTUlYnO",
+"md5": "a50973a791735f2963f9be344df6dc53",
+"sha1": "5c7d24bb4290b95c7fa0e22c3f37cb61b68f36a8",
+"sha256": "f1963dcdd63ca9a8447a3e00f200a602fa907a6c37ad37220c7fd2fc491c42b1"
+},
+"dob": {
+"date": "1985-06-06T04:06:25.480Z",
+"age": 38
+},
+"registered": {
+"date": "2012-02-10T13:41:18.697Z",
+"age": 11
+},
+"phone": "(678) 899 9117",
+"cell": "(631) 197 9354",
+"id": {
+"name": "NSS",
+"value": "68 44 12 6508 9"
+},
+"picture": {
+"large": "https://randomuser.me/api/portraits/women/9.jpg",
+"medium": "https://randomuser.me/api/portraits/med/women/9.jpg",
+"thumbnail": "https://randomuser.me/api/portraits/thumb/women/9.jpg"
+},
+"nat": "MX"
+}
+],
+"info": {
+"seed": "94198d4306f34771",
+"results": 1,
+"page": 1,
+"version": "1.4"
+}
+}
