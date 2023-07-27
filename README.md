@@ -43,7 +43,7 @@ flutter run
 
 1. Launch the app on your device or emulator.
 2. The app will automatically fetch data from the RandomUser API and display a random user profile.
-3. Swipe down to refresh and load a new random profile.
+3. Refresh button to refresh and load a new random profile.
 4. Enjoy exploring different random profiles!
 
 ## Contributing
