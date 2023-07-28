@@ -1,3 +1,5 @@
+// ignore_for_file: prefer_const_constructors
+
 import 'package:flutter/material.dart';
 
 class DetailScreen extends StatelessWidget {
@@ -34,7 +36,10 @@ class DetailScreen extends StatelessWidget {
                     fontWeight: FontWeight.bold,
                   ),
                 ),
-                subtitle: Text('${personData['email']}', style: TextStyle(fontSize: 13, fontWeight: FontWeight.bold),),
+                subtitle: Text(
+                  '${personData['email']}',
+                  style: TextStyle(fontSize: 13, fontWeight: FontWeight.bold),
+                ),
               ),
             ),
             SizedBox(height: 16.0),
